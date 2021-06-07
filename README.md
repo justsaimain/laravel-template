@@ -6,8 +6,7 @@ Project တွေ စတင်ရေးမယ်ဆိုရင် လိုအ�
 
 ## Templates
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Fresh Laravel Project](https://github.com/justsaimain/laravel-template)
+ - [Quixlab Admin Templated](https://github.com/justsaimain/laravel-template)
 
   
