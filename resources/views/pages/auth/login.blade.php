@@ -6,7 +6,7 @@
         <div class="card login-form mb-0">
             <div class="card-body pt-5">
                 <a class="text-center" href="index.html">
-                    <h4>Rosella</h4>
+                    <h4>Login Account</h4>
                 </a>
 
                 <form class="mt-5 mb-5 login-input">
