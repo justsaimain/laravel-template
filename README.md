@@ -1,12 +1,23 @@
 
-# Laravel Template for quick setup the projects
+### Simple auth system with template
 
-Project တွေ စတင်ရေးမယ်ဆိုရင် လိုအပ်တဲ့ Admin Panel Template တွေနဲ့ Auth Systems တွေကို ကြိုတင်ရေးထားပေးပြီး လိုအပ်တဲ့အချိန် သက်ဆိုင်ရာ Branch အလိုက် ဆွဲသုံးနိုင်အောင် လုပ်ထားတာပါ။
+Login/Register နှင့် Logout ပဲပါဝင်သော Auth ဖြစ်ပြီး Quixlab Admin Template ကို ဖြတ်ထားပြီးသားဖြစ်သည်။
 
+## Features
 
-## Templates
+- Admin Template
+- Register Account
+- Login Account
+- Logout
 
- - [Fresh Laravel Project](https://github.com/justsaimain/laravel-template)
- - [Quixlab Admin Templated](https://github.com/justsaimain/laravel-template)
+  
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/v1JHWdn/Screenshot-2021-06-08-144845.png)
+
+  
+## Authors
+
+- [@justsaimain](https://www.github.com/justsaimain)
 
   
